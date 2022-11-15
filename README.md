@@ -9,5 +9,5 @@ JAR FILE :
  Temp.java
  
 OUTPUT :
- Mapreduce_Temp
+ Mapreduce_Temp,
  Temp_result_part-r-00000
